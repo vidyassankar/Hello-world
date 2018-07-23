@@ -1,2 +1,3 @@
-# Hello-world
-Mynew
+#!/bin/bash
+echo "Hello-world"
+
